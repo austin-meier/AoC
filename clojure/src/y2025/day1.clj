@@ -1,5 +1,6 @@
 (ns y2025.day1
-  (:require [common :refer get-input-lines]))
+  (:require [common :refer [get-input-lines get-input]]
+            [clojure.string :as str]))
 
 (def test-input
   ["L68"
@@ -17,25 +18,24 @@
 
 (defn degrees [s]
   (case (first s)
-    \L  (- (Integer/parseInt (subs s 1)))
-    \R  (Integer/parseInt (subs s 1))))
-
-(defn pass-zero? [a b]
-  (or (and (neg? a) (pos? b))
-      (and (pos? a) (neg? b))))
+    \L  (- (parse-long (subs s 1)))
+    \R  (parse-long (subs s 1))))
 
 (->> input
  (reduce
   (fn [acc x]
     (let [deg (degrees x)
-          new-deg (+ (:deg acc) deg)
-          during (abs (quot new-deg 100))
-          normalized (if (zero? new-deg)
-                       new-deg
-                       (rem new-deg 100))]
+          current (:deg acc)
+          new-deg (+ current deg)
+          crossings (if (pos? deg)
+                      (- (Math/floor (/ new-deg 100.0))
+                         (Math/floor (/ current 100.0)))
+                      (- (Math/floor (/ (dec current) 100.0))
+                         (Math/floor (/ (dec new-deg) 100.0))))
+          normalized (rem new-deg 100)]
       {:deg normalized
        :end (if (zero? normalized)
-              (+ (:end acc) 1)
+              (inc (:end acc))
               (:end acc))
-       :during (+ (:during acc) (if (pass-zero? (:deg acc) new-deg) (inc during) during))}))
+       :during (+ (:during acc) crossings)}))
   {:deg 50 :end 0 :during 0}))
