@@ -1,5 +1,6 @@
 .DS_Store
 inputs
+cookie.txt
 
 # Clojure
 pom.xml
