@@ -1465,3 +1465,1206 @@ clj꞉y2025.day2꞉> 
 clj꞉y2025.day2꞉> 
 22062284697
 clj꞉y2025.day2꞉> 
+nil
+clj꞉y2025.day3꞉> 
+#'y2025.day3/test-input
+clj꞉y2025.day3꞉> 
+#'y2025.day3/test-input
+clj꞉y2025.day3꞉> 
+(987654321111111 811111111111119 234234234234278 818181911112111)
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+3
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; Error printing return value (IllegalArgumentException) at clojure.lang.RT/seqFrom (RT.java:577).
+; Don't know how to create ISeq from: java.lang.Long
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; Error printing return value (IllegalArgumentException) at clojure.lang.RT/seqFrom (RT.java:577).
+; Don't know how to create ISeq from: java.lang.Long
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+80
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+[8 0]
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+91
+clj꞉y2025.day3꞉> 
+(987654321111111 811111111111119 234234234234278 818181911112111)
+clj꞉y2025.day3꞉> 
+; Error printing return value (IllegalArgumentException) at clojure.core/parse-long (core.clj:8175).
+; Expected string, got java.lang.Character
+clj꞉y2025.day3꞉> 
+#'y2025.day3/char->int
+clj꞉y2025.day3꞉> 
+((9 8 7 6 5 4 3 2 1 1 1 1 1 1 1)
+ (8 1 1 1 1 1 1 1 1 1 1 1 1 1 9)
+ (2 3 4 2 3 4 2 3 4 2 3 4 2 7 8)
+ (8 1 8 1 8 1 9 1 1 1 1 2 1 1 1))
+clj꞉y2025.day3꞉> 
+; Error printing return value (ClassCastException) at clojure.core/subvec (core.clj:3844).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentVector (clojure.lang.LazySeq and clojure.lang.IPersistentVector are in unnamed module of loader 'app')
+clj꞉y2025.day3꞉> 
+; Error printing return value (ClassCastException) at clojure.core/subvec (core.clj:3844).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentVector (clojure.lang.LazySeq and clojure.lang.IPersistentVector are in unnamed module of loader 'app')
+clj꞉y2025.day3꞉> 
+(99 98 82 98)
+clj꞉y2025.day3꞉> 
+377
+clj꞉y2025.day3꞉> 
+6
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+6
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+377
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+377
+clj꞉y2025.day3꞉> 
+(99 98 82 98)
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+6
+clj꞉y2025.day3꞉> 
+(99 99 88 91)
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+(99 99 88 99)
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+6
+clj꞉y2025.day3꞉> 
+(99 99 88 91)
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+6
+clj꞉y2025.day3꞉> 
+; Error printing return value (NullPointerException) at clojure.lang.Numbers/ops (Numbers.java:1099).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; Error printing return value (NullPointerException) at clojure.lang.Numbers/ops (Numbers.java:1099).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+(99 98 82 98)
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+6
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+6
+clj꞉y2025.day3꞉> 
+; Execution error (ClassCastException) at y2025.day3/bank-joltage (day3.clj:28).
+; class clojure.lang.PersistentList cannot be cast to class clojure.lang.IPersistentVector (clojure.lang.PersistentList and clojure.lang.IPersistentVector are in unnamed module of loader 'app')
+clj꞉y2025.day3꞉> 
+; first:  6 second:  4
+98
+clj꞉y2025.day3꞉> 
+; first:  6 second:  4
+98
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  10
+91
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  11
+92
+clj꞉y2025.day3꞉> 
+; Error printing return value (NullPointerException) at clojure.lang.Numbers/ops (Numbers.java:1099).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  10
+91
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  6
+99
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  10
+91
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  11
+92
+clj꞉y2025.day3꞉> 
+; Error printing return value (NullPointerException) at clojure.lang.Numbers/ops (Numbers.java:1099).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  10
+91
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  10
+92
+clj꞉y2025.day3꞉> 
+; Error printing return value (NullPointerException) at clojure.lang.Numbers/ops (Numbers.java:1099).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  10
+91
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  6 second:  10
+; Execution error (NullPointerException) at y2025.day3/bank-joltage (day3.clj:31).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  0 second:  0
+; Execution error (NullPointerException) at y2025.day3/bank-joltage (day3.clj:31).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+; first:  9 second:  9
+; Execution error (NullPointerException) at y2025.day3/bank-joltage (day3.clj:31).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  9 second:  0 sub:  []
+; Execution error (NullPointerException) at y2025.day3/bank-joltage (day3.clj:31).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  8 second:  0 sub:  [8]
+78
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  8 second:  0 sub:  [8]
+78
+clj꞉y2025.day3꞉> 
+first:  0 second:  0 sub:  [8 7 6 5 4 3 2 1 1 1 1 1 1 1]
+first:  0 second:  13 sub:  [1 1 1 1 1 1 1 1 1 1 1 1 1 9]
+first:  13 second:  0 sub:  [8]
+first:  6 second:  4 sub:  [1 1 1 1 2 1 1 1]
+(98 89 78 92)
+clj꞉y2025.day3꞉> 
+; Syntax error compiling at (c:\Users\austi\coding\AoC\clojure\src\y2025\day3.clj:32:5).
+; Unable to resolve symbol: sub in this context
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  8 second:  8
+77
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; first:  8 second:  9
+78
+clj꞉y2025.day3꞉> 
+first:  0 second:  1
+first:  0 second:  14
+first:  13 second:  14
+first:  6 second:  11
+(98 89 78 92)
+clj꞉y2025.day3꞉> 
+; Execution error (FileNotFoundException) at java.io.FileInputStream/open0 (FileInputStream.java:-2).
+; ..\inputs\2025\day3.txt (The system cannot find the file specified)
+clj꞉y2025.day3꞉> 
+; Execution error (FileNotFoundException) at java.io.FileInputStream/open0 (FileInputStream.java:-2).
+; ..\inputs\2025\day3.txt (The system cannot find the file specified)
+clj꞉y2025.day3꞉> 
+; Execution error (FileNotFoundException) at java.io.FileInputStream/open0 (FileInputStream.java:-2).
+; ..\inputs\2025\day3.txt (The system cannot find the file specified)
+clj꞉y2025.day3꞉> 
+; Execution error (FileNotFoundException) at java.io.FileInputStream/open0 (FileInputStream.java:-2).
+; ..\inputs\2025\day3.txt (The system cannot find the file specified)
+clj꞉y2025.day3꞉> 
+#'y2025.day3/input
+clj꞉y2025.day3꞉> 
+first:  12 second:  51
+first:  7 second:  46
+first:  3 second:  37
+first:  33 second:  73
+first:  45 second:  96
+first:  21 second:  25
+first:  19 second:  37
+first:  93 second:  95
+first:  84 second:  85
+first:  25 second:  28
+first:  54 second:  74
+first:  7 second:  28
+first:  4 second:  70
+first:  10 second:  14
+first:  53 second:  79
+first:  54 second:  75
+first:  24 second:  34
+first:  27 second:  53
+first:  54 second:  55
+first:  27 second:  43
+first:  12 second:  29
+first:  27 second:  86
+first:  0 second:  3
+first:  0 second:  23
+first:  59 second:  82
+first:  21 second:  31
+first:  50 second:  63
+first:  59 second:  70
+first:  38 second:  84
+first:  37 second:  39
+first:  13 second:  27
+first:  31 second:  41
+(99 77 88 99 99 88 66 75 98 99 99 88 88 44 65 66 65 66 99 87 99 99 99 77 54 98 77 65 88 99 99 87first:  0 second:  2
+first:  13 second:  63
+first:  33 second:  63
+first:  11 second:  34
+first:  58 second:  66
+first:  0 second:  11
+first:  89 second:  90
+first:  20 second:  75
+first:  56 second:  75
+first:  93 second:  94
+first:  69 second:  85
+first:  96 second:  99
+first:  21 second:  68
+first:  21 second:  68
+first:  43 second:  50
+first:  28 second:  55
+first:  31 second:  99
+first:  30 second:  88
+first:  50 second:  79
+first:  94 second:  97
+first:  33 second:  76
+first:  19 second:  50
+first:  98 second:  99
+first:  10 second:  23
+first:  6 second:  16
+first:  93 second:  94
+first:  71 second:  72
+first:  5 second:  21
+first:  25 second:  50
+first:  12 second:  85
+first:  18 second:  28
+first:  33 second:  34
+ 99 88 88 98 99 66 94 99 66 74 54 98 99 65 95 98 76 87 ...)
+clj꞉y2025.day3꞉> 
+; first:  12 second:  51
+; first:  7 second:  46
+; first:  3 second:  37
+; first:  33 second:  73
+; first:  45 second:  96
+; first:  21 second:  25
+; first:  19 second:  37
+; first:  93 second:  95
+; first:  84 second:  85
+; first:  25 second:  28
+; first:  54 second:  74
+; first:  7 second:  28
+; first:  4 second:  70
+; first:  10 second:  14
+; first:  53 second:  79
+; first:  54 second:  75
+; first:  24 second:  34
+; first:  27 second:  53
+; first:  54 second:  55
+; first:  27 second:  43
+; first:  12 second:  29
+; first:  27 second:  86
+; first:  0 second:  3
+; first:  0 second:  23
+; first:  59 second:  82
+; first:  21 second:  31
+; first:  50 second:  63
+; first:  59 second:  70
+; first:  38 second:  84
+; first:  37 second:  39
+; first:  13 second:  27
+; first:  31 second:  41
+; first:  0 second:  2
+; first:  13 second:  63
+; first:  33 second:  63
+; first:  11 second:  34
+; first:  58 second:  66
+; first:  0 second:  11
+; first:  89 second:  90
+; first:  20 second:  75
+; first:  56 second:  75
+; first:  93 second:  94
+; first:  69 second:  85
+; first:  96 second:  99
+; first:  21 second:  68
+; first:  21 second:  68
+; first:  43 second:  50
+; first:  28 second:  55
+; first:  31 second:  99
+; first:  30 second:  88
+; first:  50 second:  79
+; first:  94 second:  97
+; first:  33 second:  76
+; first:  19 second:  50
+; first:  98 second:  99
+; first:  10 second:  23
+; first:  6 second:  16
+; first:  93 second:  94
+; first:  71 second:  72
+; first:  5 second:  21
+; first:  25 second:  50
+; first:  12 second:  85
+; first:  18 second:  28
+; first:  33 second:  34
+; first:  39 second:  67
+; first:  58 second:  89
+; first:  61 second:  85
+; first:  87 second:  92
+; first:  58 second:  74
+; first:  37 second:  43
+; first:  64 second:  81
+; first:  7 second:  8
+; first:  23 second:  60
+; first:  22 second:  75
+; first:  9 second:  77
+; first:  33 second:  45
+; first:  9 second:  74
+; first:  43 second:  56
+; first:  64 second:  67
+; first:  51 second:  65
+; first:  16 second:  18
+; first:  4 second:  18
+; first:  39 second:  45
+; first:  21 second:  42
+; first:  0 second:  12
+; first:  91 second:  95
+; first:  69 second:  71
+; first:  76 second:  80
+; first:  74 second:  75
+; first:  4 second:  11
+; first:  13 second:  89
+; first:  56 second:  66
+; first:  6 second:  15
+; first:  57 second:  61
+; first:  12 second:  19
+; first:  67 second:  70
+; first:  47 second:  87
+; first:  45 second:  53
+; first:  13 second:  20
+; first:  92 second:  96
+; first:  9 second:  17
+; first:  64 second:  84
+; first:  26 second:  55
+; first:  37 second:  38
+; first:  31 second:  52
+; first:  62 second:  75
+; first:  90 second:  91
+; first:  18 second:  29
+; first:  6 second:  10
+; first:  7 second:  13
+; first:  56 second:  91
+; first:  59 second:  61
+; first:  95 second:  99
+; first:  52 second:  65
+; first:  36 second:  79
+; first:  2 second:  18
+; first:  61 second:  65
+; first:  9 second:  47
+; first:  3 second:  17
+; first:  25 second:  38
+; first:  6 second:  8
+; first:  0 second:  5
+; first:  63 second:  84
+; first:  1 second:  3
+; first:  32 second:  33
+; first:  24 second:  57
+; first:  7 second:  25
+; first:  63 second:  76
+; first:  10 second:  23
+; first:  43 second:  62
+; first:  19 second:  37
+; first:  3 second:  12
+; first:  24 second:  69
+; first:  32 second:  50
+; first:  9 second:  25
+; first:  32 second:  42
+; first:  0 second:  9
+; first:  58 second:  72
+; first:  16 second:  23
+; first:  39 second:  44
+; first:  98 second:  99
+; first:  17 second:  46
+; first:  15 second:  19
+; first:  40 second:  66
+; first:  60 second:  90
+; first:  40 second:  45
+; first:  22 second:  28
+; first:  18 second:  36
+; first:  9 second:  68
+; first:  74 second:  85
+; first:  93 second:  97
+; first:  47 second:  48
+; first:  6 second:  21
+; first:  94 second:  95
+; first:  6 second:  10
+; first:  89 second:  90
+; first:  79 second:  88
+; first:  36 second:  84
+; first:  40 second:  54
+; first:  83 second:  94
+; first:  9 second:  17
+; first:  4 second:  38
+; first:  5 second:  36
+; first:  98 second:  99
+; first:  6 second:  45
+; first:  98 second:  99
+; first:  96 second:  97
+; first:  35 second:  41
+; first:  93 second:  97
+; first:  55 second:  70
+; first:  7 second:  9
+; first:  84 second:  89
+; first:  32 second:  49
+; first:  30 second:  49
+; first:  12 second:  99
+; first:  24 second:  69
+; first:  11 second:  55
+; first:  4 second:  6
+; first:  34 second:  52
+; first:  25 second:  44
+; first:  73 second:  83
+; first:  41 second:  47
+; first:  39 second:  71
+; first:  30 second:  91
+; first:  62 second:  80
+; first:  8 second:  64
+; first:  80 second:  90
+; first:  8 second:  17
+; first:  34 second:  82
+; first:  34 second:  76
+; first:  49 second:  80
+; first:  12 second:  20
+; first:  17 second:  21
+; first:  40 second:  61
+; first:  48 second:  68
+; first:  44 second:  54
+; first:  38 second:  51
+; first:  29 second:  38
+; first:  15 second:  79
+; first:  12 second:  24
+17087
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+; first:  2 second:  5
+7500
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+16888
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+78
+clj꞉y2025.day3꞉> 
+17087
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+78
+clj꞉y2025.day3꞉> 
+92
+clj꞉y2025.day3꞉> 
+16888
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+; Execution error (IllegalArgumentException) at y2025.day3/largest-idx (day3.clj:29).
+; No matching field found: indexOf for class java.lang.Long
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+17087
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; Execution error (ArityException) at y2025.day3/largest-idx (day3.clj:29).
+; Wrong number of args (0) passed to: clojure.core/max
+clj꞉y2025.day3꞉> 
+#'y2025.day3/largest-idx
+clj꞉y2025.day3꞉> 
+; Execution error (ArityException) at y2025.day3/largest-idx (day3.clj:20).
+; Wrong number of args (0) passed to: clojure.core/max
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; {:offset 0, :joltage (nil)} {:offset 0, :joltage (nil)}
+; Execution error (ArityException) at y2025.day3/largest-idx (day3.clj:20).
+; Wrong number of args (0) passed to: clojure.core/max
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; nil [4 3]
+; {:offset 0, :joltage (nil)} {:offset 0, :joltage (nil)}
+; nil []
+; Execution error (ArityException) at y2025.day3/largest-idx (day3.clj:20).
+; Wrong number of args (0) passed to: clojure.core/max
+clj꞉y2025.day3꞉> 
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; nil [9 8]
+; {:offset 0, :joltage (nil)} {:offset 0, :joltage (nil)}
+; nil []
+; Execution error (ArityException) at y2025.day3/largest-idx (day3.clj:20).
+; Wrong number of args (0) passed to: clojure.core/max
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; nil [9 8]
+; {:offset 0, :joltage (nil)} {:offset 0, :joltage (nil)}
+; nil []
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; nil [8 1]
+; {:offset 0, :joltage (nil)} {:offset 0, :joltage (nil)}
+; nil []
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; nil [2 3]
+; {:offset 2, :joltage (nil)} {:offset 2, :joltage (nil)}
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:39).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; nil [9 8 7]
+; {:offset 0, :joltage (nil)} {:offset 0, :joltage (nil)}
+; nil [8]
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; nil [8 1 1]
+; {:offset 0, :joltage (nil)} {:offset 0, :joltage (nil)}
+; nil [1]
+; {:offset -1, :joltage []} {:offset -1, :joltage []}
+; nil [2 3 4]
+; {:offset 2, :joltage (nil)} {:offset 2, :joltage (nil)}
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:39).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:37).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; idx:  0
+; idx:  0
+; idx:  0
+; idx:  0
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:37).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [9]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [8]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:37).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset -1, :joltage [9]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset -1, :joltage [8]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  2
+; Execution error (ArityException) at y2025.day3/largest-idx (day3.clj:20).
+; Wrong number of args (0) passed to: clojure.core/max
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset -1, :joltage {:offset -1, :joltage [9]}}
+; idx:  0
+; Execution error (IllegalArgumentException) at y2025.day3/bank-joltage$fn (day3.clj:40).
+; Don't know how to create ISeq from: java.lang.Long
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset -1, :joltage [9]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset -1, :joltage [8]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  2
+; Execution error (ArityException) at y2025.day3/largest-idx (day3.clj:20).
+; Wrong number of args (0) passed to: clojure.core/max
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [9]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [8]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:37).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [9]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [8]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [9]}
+; idx:  1
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [8]}
+; idx:  1
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [9]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [8]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset -1, :joltage [9]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  0
+; acc:  {:offset -1, :joltage [8]}
+; idx:  0
+; acc:  {:offset -1, :joltage []}
+; idx:  2
+; Execution error (ArityException) at y2025.day3/largest-idx (day3.clj:20).
+; Wrong number of args (0) passed to: clojure.core/max
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset 0, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [9]}
+; idx:  0
+; acc:  {:offset 0, :joltage []}
+; idx:  0
+; acc:  {:offset 0, :joltage [8]}
+; idx:  0
+; acc:  {:offset 0, :joltage []}
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset 0, :joltage []}
+; idx:  0
+; acc:  {:offset 1, :joltage [9]}
+; idx:  0
+; acc:  {:offset 0, :joltage []}
+; idx:  0
+; acc:  {:offset 1, :joltage [8]}
+; idx:  0
+; acc:  {:offset 0, :joltage []}
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset 0, :joltage []}
+; idx:  0
+; acc:  {:offset 1, :joltage [9]}
+; idx:  0
+; acc:  {:offset 0, :joltage []}
+; idx:  0
+; acc:  {:offset 1, :joltage [8]}
+; idx:  0
+; acc:  {:offset 0, :joltage []}
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset 0, :joltage []}
+; idx:  0
+; acc:  {:offset 1, :joltage [9]}
+; idx:  0
+; acc:  {:offset 0, :joltage []}
+; idx:  0
+; acc:  {:offset 1, :joltage [8]}
+; idx:  0
+; acc:  {:offset 0, :joltage []}
+; idx:  2
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; 1
+; 2
+; 1
+; 2
+; 3
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset 0, :joltage []}
+; 1
+; acc:  {:offset 1, :joltage [9]}
+; 2
+; acc:  {:offset 0, :joltage []}
+; 1
+; acc:  {:offset 1, :joltage [8]}
+; 2
+; acc:  {:offset 0, :joltage []}
+; 3
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset 0, :joltage []}
+; 1
+; acc:  {:offset 1, :joltage [9]}
+; 2
+; acc:  {:offset 0, :joltage []}
+; 1
+; acc:  {:offset 1, :joltage [8]}
+; 2
+; acc:  {:offset 0, :joltage []}
+; 3
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+; nREPL connection failed: Error: read ECONNRESET
+; Failed connecting.
+; nREPL Connection was closed
+; Jacking in...
+; Connecting using "deps.edn" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+
+; Starting Jack-in: pushd c:\Users\austi\coding\AoC\clojure & java -jar c:\Users\austi\.vscode\extensions\betterthantomorrow.calva-2.0.540\deps.clj.jar -Sdeps "{:deps {nrepl/nrepl {:mvn/version,\"1.5.1\"},cider/cider-nrepl {:mvn/version,\"0.58.0\"}}}" -M -m nrepl.cmdline --middleware "[cider.nrepl/cider-middleware]" & popd
+; Using host:port api.123envelopes.com:50461 ...
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉user꞉> 
+; Jack-in done.
+clj꞉user꞉> 
+; Evaluating file: day3.clj
+; acc:  {:offset 0, :joltage []}
+; 1
+; acc:  {:offset 1, :joltage [9]}
+; 2
+; acc:  {:offset 0, :joltage []}
+; 1
+; acc:  {:offset 1, :joltage [8]}
+; 2
+; acc:  {:offset 0, :joltage []}
+; 3
+; 
+; ; clj  y2025.day3 
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+; Evaluation of file day3.clj failed: class java.lang.IndexOutOfBoundsException
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset 0, :joltage []}
+; 1
+; acc:  {:offset 1, :joltage [9]}
+; 2
+; acc:  {:offset 0, :joltage []}
+; 1
+; acc:  {:offset 1, :joltage [8]}
+; 2
+; acc:  {:offset 0, :joltage []}
+; 3
+; Execution error (IndexOutOfBoundsException) at y2025.day3/bank-joltage$fn (day3.clj:38).
+; null
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; Execution error (ClassCastException) at y2025.day3/eval9640 (day3.clj:61).
+; class clojure.lang.PersistentArrayMap cannot be cast to class java.lang.Number (clojure.lang.PersistentArrayMap is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+; acc:  {:offset 0, :joltage []}
+; acc:  {:offset 1, :joltage [9]}
+; acc:  {:offset 0, :joltage []}
+; acc:  {:offset 1, :joltage [8]}
+; acc:  {:offset 0, :joltage []}
+; acc:  {:offset 14, :joltage [7]}
+; acc:  {:offset 0, :joltage []}
+; acc:  {:offset 7, :joltage [9]}
+; Execution error (ClassCastException) at y2025.day3/eval10370 (day3.clj:61).
+; class clojure.lang.PersistentArrayMap cannot be cast to class java.lang.Number (clojure.lang.PersistentArrayMap is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉y2025.day3꞉> 
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 1, :joltage [9]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 1, :joltage [8]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 14, :joltage [7]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 7, :joltage [9]}
+({:offset 2, :joltage [9 8]} {:offset 15, :joltage [8 9]} {:offset 15, :joltage [7 8]} {:offset 12, :joltage [9 2]})
+clj꞉y2025.day3꞉> 
+([9 8 7 6 5 4 3 2 1 1 1 1 1 1 1]
+ [8 1 1 1 1 1 1 1 1 1 1 1 1 1 9]
+ [2 3 4 2 3 4 2 3 4 2 3 4 2 7 8]
+ [8 1 8 1 8 1 9 1 1 1 1 2 1 1 1])
+clj꞉y2025.day3꞉> 
+#function[clojure.core/map/fn--5952]
+clj꞉y2025.day3꞉> 
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 1, :joltage [9]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 1, :joltage [8]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 14, :joltage [7]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 7, :joltage [9]}
+({:offset 2, :joltage [9 8]} {:offset 15, :joltage [8 9]} {:offset 15, :joltage [7 8]} {:offset 12, :joltage [9 2]})
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 1, :joltage [9]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 1, :joltage [8]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 14, :joltage [7]}
+acc:  {:offset 0, :joltage []}
+acc:  {:offset 7, :joltage [9]}
+({:offset 2, :joltage [9 8]} {:offset 15, :joltage [8 9]} {:offset 15, :joltage [7 8]} {:offset 12, :joltage [9 2]})
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+({:offset 2, :joltage [9 8]} {:offset 15, :joltage [8 9]} {:offset 15, :joltage [7 8]} {:offset 12, :joltage [9 2]})
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+([9 8] [8 9] [7 8] [9 2])
+clj꞉y2025.day3꞉> 
+#'y2025.day3/coll->num
+clj꞉y2025.day3꞉> 
+#'y2025.day3/bank-joltage
+clj꞉y2025.day3꞉> 
+(98 89 78 92)
+clj꞉y2025.day3꞉> 
+357
+clj꞉y2025.day3꞉> 
+3121910778619
+clj꞉y2025.day3꞉> 
+169019504359949
+clj꞉y2025.day3꞉> 
