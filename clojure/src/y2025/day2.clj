@@ -27,7 +27,7 @@
     (->> (range 1 (inc (quot len 2)))
          (map #(subs strn 0 %))
          (filter #(= strn (apply str (repeat (/ len (count %)) %))))
-         seq)))
+         (seq))))
 
 
 (defn run [invalid-fn]
